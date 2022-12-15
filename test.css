@@ -1,0 +1,37 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+}
+
+.bgwarna {
+  background-color: blueviolet;
+}
+
+.textwarna {
+  color: azure;
+}
+
+.container-fluids {
+  padding-top: 50px;
+  width: 1000px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.bg-gambar {
+  background-image: url("https://portal.sukabumikota.go.id/wp-content/uploads/2021/04/money-report-2.jpg");
+  min-width: 100%;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+}
+
+.bgcont {
+  background-color: rgba(18, 26, 26, 0.341);
+}
